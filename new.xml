@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <SoulSociety>
+  <student sex='male' course="xml" >Aizen</student>
+  <student sex='male' course="xml" >Stanley</student>
+  <student sex='male' course="xml" >Mofe</student>
+  <student sex='female' course="xml" >Eri</student>
+  <student sex='male' course="xml" >Mustapha</student>
+ </SoulSociety>
+
+<!-- <group>
+ <student>
+  <name>Stanley</name>
+  <sex>male</sex>
+  <course>json</course>
+ </student>
+ <student>
+ </student>
+</group> -->
