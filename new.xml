@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <SoulSociety>
-  <student sex='male' course="xml" >Aizen</student>
-  <student sex='male' course="xml" >Stanley</student>
-  <student sex='male' course="xml" >Mofe</student>
-  <student sex='female' course="xml" >Eri</student>
-  <student sex='male' course="xml" >Mustapha</student>
+  <student sex='male' course="xml/json" hubby="bankai" age="32" shoeSize="34" >Aizen</student>
+  <student sex='male' course="xml/json" hubby="reading" age="44" shoeSize="37" >Stanley</student>
+  <student sex='male' course="xml/json" hubby="coding" age="89" shoeSize="30" >Mofe</student>
+  <student sex='male' course="xml/json" hubby="movies" age="32" shoeSize="29" >Eri</student>
+  <student sex='male' course="xml/json" hubby="driving" age="105" shoeSize="35" >Mustapha</student>
  </SoulSociety>
 
 <!-- <group>
