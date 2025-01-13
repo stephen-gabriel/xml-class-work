@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Uzumakis>
+<Members sex='male' age="24" color="yellow">Minato</Members>
+<Members sex='female' age="20" color="red">Kushina</Members>
+<Members sex='male' age="17" color="orange">Naruto</Members>
+<Members sex='male' age="14" color="blue">Boruto</Members>
+<Members sex='female' age="10" color="purple">Himawari</Members>
+<Members sex='male' age="100" color="red">Kurama</Members>
+</Uzumakis>
