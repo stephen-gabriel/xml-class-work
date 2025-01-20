@@ -1,0 +1,18 @@
+bookstore {
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 5rem 0;
+  display: flex;
+  gap: 2rem;
+}
+
+book {
+  background-color: yellow;
+  padding: 2rem;
+  text-align: center;
+}
+
+author {
+  font-weight: 700;
+  font-family: cursive;
+}

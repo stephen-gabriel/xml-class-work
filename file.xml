@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<a:group xmlns:a="xml.com"></a:group>
+<group xmlns:s="http://www.w3.org/2001/XMLSchema-instance" xmlns:a="google.com">
+<s:student>
+<name>Stanley</name>
+<sex>male</sex>
+<course>json</course>
+</s:student>
+<a:student>
+<name>Stanley</name>
+<sex>make</sex>
+<course>json</course>
+</a:student>
+<student>
+<name>Stanley</name>
+<sex>make</sex>
+<course>json</course>
+</student>
+</group>
